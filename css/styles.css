@@ -1,0 +1,145 @@
+header {
+    font-family: Redressed, Sans-Serif;
+    text-decoration-style: solid;
+    font-size: 80px;
+}
+
+body {
+    font-family: Josefin Sans, Sans-Serif;
+}
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #1d976c, #93f939);
+    color: white;
+}
+
+.navbar-dark {
+    background-image: linear-gradient(to right, black, #434343);
+    color: white;
+}
+
+.site-footer {
+    background-image: linear-gradient(to right, black, #434343);
+    padding: 20px 0;
+    margin-top: 20px;
+}
+
+.title {
+    text-align: center;
+}
+
+.nav-item {
+    margin: 0px 20px;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.carousel-caption {
+    background-color: darkgray;
+}
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100; }
+
+.carouselImage {
+    width: auto;
+    height: 600px;
+    max-height: 600px;
+}
+
+.footer-links-title {
+    color: white;
+}
+
+.footer-links {
+    color: white;
+    text-decoration: none;
+}
+
+.newsletter {
+    margin-top: 10px;
+}
+
+.card-text {
+    font-size: 20px;
+    padding: 60px;
+}
+
+.bestSellersImage {
+    width: auto;
+    height: auto;
+    max-height: 600px;
+    padding: 50px;
+}
+
+.OurStoryTitle {
+    padding: 40px;
+    text-decoration: solid underline;
+}
+
+.Faulkner {
+    padding: 30px;
+}
+
+.address {
+    text-decoration: solid underline;
+}
+
+h2 {
+    padding: 20px;
+}
+
+
+.map {
+    padding: 100px
+}
+
+.directions{ 
+    padding: 65px;
+}
+.fa {
+    margin-left: 10px;
+}
+
+.menu-title {
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 20px;
+} 
+
+.menu-main {
+   font-size: 75px;
+   font-family: Redressed, sans-serif;
+    padding: 20px;
+   text-align: center;
+   text-decoration-style: solid;
+
+}
+
+.happyhourdeals {
+    text-align: center;
+    padding: 25px;
+}
+
+.event-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.event-info {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.breadcrumb-title {
+    color: green;
+}
